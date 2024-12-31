@@ -43,10 +43,10 @@ Ensure you have the following installed on your machine:
 2 .**Install dependencies**:
 
    ```bash
-   npm install -g json-server
+   npm install
    ```
 
- 3. **Set up JSON Server**:
+3. **Set up JSON Server**:
 
   Install JSON Server globally if you haven't already:
 
