@@ -4,9 +4,8 @@ Welcome to the React Quiz App! This application is designed to help you test you
 
 ## ✨ Features
 
-- 📋 **Multiple Ca**: Choose from a variety of quiz categories to test your knowledge.
-- ⏱️ **Timer**: Each question comes with a countdown timer to add a challenge.
 - 📈 **Score Tracking**: Keep track of your score as you progress through the quiz.
+- ⏱️ **Timer**: Each question comes with a countdown timer to add a challenge.
 - 🔄 **State Management**: Utilizes React's Context API and `useReducer` for efficient state management.
 - 📡 **Data Simulation**: Uses JSON Server to simulate API calls for fetching quiz data.
 
